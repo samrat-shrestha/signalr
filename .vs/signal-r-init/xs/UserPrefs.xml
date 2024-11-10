@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C73823E9-A382-4903-8C90-6809E63A20D1}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="signal-r-init/appsettings.json">
+    <Files>
+      <File FileName="signal-r-init/Program.cs" Line="1" Column="1" />
+      <File FileName="signal-r-init/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="signal-r-init" expanded="True">
+            <Node name="signal-r-init" expanded="True">
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.signal-r-init PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
